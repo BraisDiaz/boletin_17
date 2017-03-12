@@ -6,6 +6,7 @@ public class Alumno implements Comparable<Alumno>  {
     int notas;
     String nome;
     
+    String prueba;
     public Alumno(){
         
     }
